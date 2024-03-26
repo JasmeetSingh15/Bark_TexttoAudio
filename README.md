@@ -1,8 +1,12 @@
 # Bark_TexttoAudio
 Suno Bark github URL: https://github.com/suno-ai/bark
+
 Suno Bark HuggingFace URL: https://huggingface.co/suno/bark
+
 Coqui AI URL: https://github.com/coqui-ai/TTS
+
 Language Supports in Bark URL: https://suno-ai.notion.site/8b8e8749ed514b0cbf3f699013548683?v=bc67cff786b04b50b3ceb756fd05f68c
+
 Bark Repo in HuggingFace URL: https://huggingface.co/suno/bark/tree/main
 
 Try closing all the application before starting with the steps given below for the ease of reproducibility. 
@@ -31,7 +35,6 @@ Advanced Steps to Make your own voice cloning system:
 1. Install Coqui AI TTS module using "pip install TTS"
 2. Clone the Suno Bark code at huggingface using "git clone https://huggingface.co/suno/bark" command. Remember that you should be in the project folder. This step would create a bark folder and copy all the files from the hugging face reporsitory.
 3. Now create a folder "bark_voices" at the root level in which again create a folder call "speaker". The "speaker" folder will be used to store your audio samples.
-4. 
 
 Note: You can also set "SUNO_USE_SMALL_MODELS=True" if you are using the CPU to make things a little faster OR you can use a smaller model call "bark-small".
 

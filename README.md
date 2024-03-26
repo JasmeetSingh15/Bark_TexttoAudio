@@ -8,6 +8,7 @@ Bark Repo in HuggingFace URL: https://huggingface.co/suno/bark/tree/main
 Try closing all the application before starting with the steps given below for the ease of reproducibility. 
 
 Steps:
+
 0. Create a specific folder for the project.
 1. Install Python. Link: https://www.python.org/downloads/. After installation make sure you have the PATH populated with the bin and scripts folder of python.
 2. Install Git Bash. Link: https://git-scm.com/downloads. Make sure you have location of git bash bin added to the PATH environment variable.
